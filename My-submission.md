@@ -76,4 +76,21 @@ Watt, Melinda. “Textile Production in Europe: Embroidery, 1600–1800 | Essay.
 Watt, Melinda. “Textile Production in Europe: Lace, 1600–1800 | Essay.” The Metropolitan Museum of Art, October 2003, https://www.metmuseum.org/toah/hd/txt_l/hd_txt_l.htm.  Accessed 26 February 2023.
 Waugh, Norah. Corsets and Crinolines. Routledge, 2015, https://www.taylorfrancis.com/books/mono/10.4324/9781315060071/corsets-crinolines-norah-waugh. Accessed 26 February 2023.
 Waugh, Norah. “Corsets and Crinolines.” 2004, http://www.reenactor.ru/ARH/PDF/Waugh.pdf. Accessed 26 February 2023.
-Worcester Corset Company. “Corset.” The Metropolitan Museum of Art, 187, https://www.metmuseum.org/art/collection/search/158007?what=Corsets&ao=on&ft=*&offset=0&rpp=20&pos=10. Accessed 26 February 2023.   
+Worcester Corset Company. “Corset.” The Metropolitan Museum of Art, 187, https://www.metmuseum.org/art/collection/search/158007?what=Corsets&ao=on&ft=*&offset=0&rpp=20&pos=10. Accessed 26 February 2023.  
+Title:The Anatomy of a Corset Author: Sara Jandrew Date: February 28, 2023 Corsets, Mapping, History Bio: Sara Peer Review Feedback
+This submission is forward and clear. The use of Google Maps works perfectly with the narrative format. The paragraphs paired with each location are a good way of providing historical context with locations on Google Maps. However, creating a section that accompanies the map explaining each location and corsets materials and details would have paired nicely with the map. More information could have been provided in the hypothetical paired doc. In addition, further instructions on how the map operates and a more detailed project description would have allowed readers, especially those unfamiliar with academic mapping conventions. 
+2. Relevance to Special Issue Theme (/5)
+This project is most definitely relevant to the  CTRL+ALT+DH theme of creativity in digital spaces. The project uses a geographic narrative as a form of digital storytelling. The author of this project has clearly shown that history can be digitally shown through interactive tools such as Google Maps.  The map does a great job of tracking the origins of corset materials across the world. The author could have expanded on how digital mapping not only visualizes the historical supply chain but also makes it more interesting to the viewer because it is more interactive than a typical digital story. It also helps the viewers grab more information about the production and trade of the corsets. An interactive provides the viewer a great opportunity to visualize the origin of materials, connecting them with the broader economic, cultural, and technological histories. This type of digital media can open further ways to talk about the ways that digital cartography might be used as a tool for public history, bringing obscure or underappreciated stories to a larger audience. 
+3. Originality, Creativity, Strength of Ideas (/5)
+The creativity of this project tells a story through a digital space that illustrates the history of corsets and where they are from.  The choice of countries and cities shows that the author was dedicated to gaining key information and details of history. Another suggestion for the creator would be to add a final reflection or document that shows patterns of the mapped places that could reveal more of the history of the corsets, and then the origins. 
+4. Accuracy and Completion of Markdown Code (/5)
+The metadata is properly structured with the author, title, abstract, issue, tags, and link. All the links function properly, and the mapping structure meets the criteria. Adding some brief points on how many pins are included or what the reader can expect from the map would provide helpful context.  
+Scores:
+Communication & Style: 4/5
+Relevance: 5/5
+Originality: 4/5
+Markdown Accuracy: 4/5
+Total: 17/20
+
+
+
